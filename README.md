@@ -24,3 +24,13 @@ _Example 3:_
 Input: `nums = [], target = 0`
 
 Output: `[-1,-1]`
+
+### _Constraints:_
+
+`0 <= nums.length <= 10^5`
+
+`-10^9 <= nums[i] <= 10^9`
+
+`nums` is a non-decreasing array.
+
+`-10^9 <= target <= 10^9`
