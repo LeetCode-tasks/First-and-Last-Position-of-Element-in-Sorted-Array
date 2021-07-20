@@ -33,6 +33,10 @@ Output: `[-1,-1]`
 
 `nums` is a non-decreasing array.
 
+`-10^9 <= target <= 10^9`
+
+
+
 ## Solution in JavaScript
 ```
 var searchRange = function(nums, target) {
@@ -56,5 +60,3 @@ var searchRange = function(nums, target) {
     return [firstIndex, lastIndex]
 };
 ```
-
-`-10^9 <= target <= 10^9`
